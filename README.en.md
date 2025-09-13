@@ -58,8 +58,8 @@ python app.py
 ```
 ### Visit
 ```bash
-	#Web UI 👉 http://127.0.0.1:5000
-	#API example:
-    curl "http://127.0.0.1:5000/recommend?movie=Toy+Story"
-    ```
+#Web UI 👉 http://127.0.0.1:5000
+#API example:
+curl "http://127.0.0.1:5000/recommend?movie=Toy+Story"
+```
 ---

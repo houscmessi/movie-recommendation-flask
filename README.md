@@ -59,9 +59,9 @@ python app.py
 ```
 ### 访问应用
 ```bash
-	#Web 界面 👉 http://127.0.0.1:5000
-	#API 调用示例：
-  curl "http://127.0.0.1:5000/recommend?movie=Toy+Story"
+#Web 界面 👉 http://127.0.0.1:5000
+#API 调用示例：
+curl "http://127.0.0.1:5000/recommend?movie=Toy+Story"
 ```
 
 ---
